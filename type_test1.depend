@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1484985392 source:c:\university programming\type_test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<winnt.h>
+
